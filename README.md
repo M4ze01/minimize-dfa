@@ -1,2 +1,2 @@
-# minimize-dfa
-program in python to minimize any given DFA 
+"pip install tabulate" in ur terminal.
+reload vscode and run it again.
